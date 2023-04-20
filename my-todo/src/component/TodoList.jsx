@@ -5,6 +5,7 @@ import TodoListItem from './TodoListItem';
 
 const TodoListWrapper = styled.div`
   padding: 20px 30px;
+  overflow-y: scroll;
 
   h1 {
     font-size: 20px;
